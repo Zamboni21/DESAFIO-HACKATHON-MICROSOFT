@@ -19,13 +19,16 @@ NU_NOTA_LC
 NU_NOTA_MT																		
 																		
 O MODELO QUE ESTOU DESENVOLVENDO IRÁ PREVER A NOTA DE CIÊNCIAS DA NATUREZA COM BASE NA NOTA DE MATEMÁTICA																		
+![image](https://user-images.githubusercontent.com/75635093/122083450-45582780-cdd7-11eb-853e-39e663dc570d.png)
 																		
 MAE = 40,14																		
 RMSE = 50,44																		
 RSE = 0,44																		
 RAE = 0,63																		
 CD = 0,55																		
-																		
+
+![image](https://user-images.githubusercontent.com/75635093/122083566-5b65e800-cdd7-11eb-92bb-6b763089c65f.png)
+
 PODEMOS ANALISAR QUE O ERRO MÉDIO ABSOLUTO FOI DE 40,14 E SUA DISCREPÂNCIA COM A RAIZ DO ERRO QUADRÁTICO MÉDIO FOI DE 10,3 (PEQUENA)																		
 O ERRO QUADRADO RELATIVO NÃO FOI TÃO BOM, MAS FICOU ABAIXO DE 0,5, SENDO ASSIM, UM MODELO COM MAIS PRECISÃO																		
 O ERRO ABSOLUTO RELATIVO FICOU LEVEMENTE PIOR 																		
