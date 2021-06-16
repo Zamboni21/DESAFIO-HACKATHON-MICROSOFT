@@ -75,3 +75,5 @@ COMPARANDO COM OS RESULTADOS OBTIDOS, PODEMOS PERCEBER QUE A CLUSTERIZAÇÃO FOI
 ![image](https://user-images.githubusercontent.com/75635093/122251539-fa0a4b80-cea0-11eb-93e7-882972c6cece.png)
 ![image](https://user-images.githubusercontent.com/75635093/122251479-ec54c600-cea0-11eb-8189-73d031873fdf.png)
 
+![image](https://user-images.githubusercontent.com/75635093/122251766-2faf3480-cea1-11eb-9e8c-5918bb279d4b.png)
+
