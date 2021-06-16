@@ -50,3 +50,15 @@ AO COLOCAR TODAS A NOTAS NA ENTRADA DE DADOS MANUAIS E SELECIONANDO TODAS AS COL
 ### SITUAÇÃO ATUAL:
 
 ![image](https://user-images.githubusercontent.com/75635093/122086666-5191b400-cdda-11eb-8cdd-93c8bb418605.png)
+
+
+## DESAFIO 2											
+																		
+MÉTODO UTILIZADO: CLUSTERIZAÇÃO		
+
+ABAIXO A IMAGEM DA CLUSTERIZAÇÃO FEITA EM 4 CENTRÓIDES E SEUS PARÂMETROS:
+
+![image](https://user-images.githubusercontent.com/75635093/122147378-29807000-ce2f-11eb-98d2-50d8fa251e4e.png)
+![image](https://user-images.githubusercontent.com/75635093/122147478-5c2a6880-ce2f-11eb-93ba-4697820cf15a.png)![image](https://user-images.githubusercontent.com/75635093/122147499-6482a380-ce2f-11eb-80da-a9d8486535ac.png)
+
+
