@@ -71,4 +71,7 @@ ABAIXO A IMAGEM DA CLUSTERIZAÇÃO FEITA EM 4 CENTRÓIDES E SEUS PARÂMETROS:
 
 ![image](https://user-images.githubusercontent.com/75635093/122250586-296c8880-cea0-11eb-902f-4e98e8734e91.png)![image](https://user-images.githubusercontent.com/75635093/122250627-31c4c380-cea0-11eb-837a-7a611f784866.png)
 
+COMPARANDO COM OS RESULTADOS OBTIDOS, PODEMOS PERCEBER QUE A CLUSTERIZAÇÃO FOI MUITO BOA
+![image](https://user-images.githubusercontent.com/75635093/122251539-fa0a4b80-cea0-11eb-93e7-882972c6cece.png)
+![image](https://user-images.githubusercontent.com/75635093/122251479-ec54c600-cea0-11eb-8189-73d031873fdf.png)
 
