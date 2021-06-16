@@ -67,4 +67,8 @@ ABAIXO A IMAGEM DA CLUSTERIZAÇÃO FEITA EM 4 CENTRÓIDES E SEUS PARÂMETROS:
 ![image](https://user-images.githubusercontent.com/75635093/122147378-29807000-ce2f-11eb-98d2-50d8fa251e4e.png)
 ![image](https://user-images.githubusercontent.com/75635093/122147478-5c2a6880-ce2f-11eb-93ba-4697820cf15a.png)![image](https://user-images.githubusercontent.com/75635093/122147499-6482a380-ce2f-11eb-80da-a9d8486535ac.png)
 
+### SITUAÇÃO ATUAL:
+
+![image](https://user-images.githubusercontent.com/75635093/122250586-296c8880-cea0-11eb-902f-4e98e8734e91.png)![image](https://user-images.githubusercontent.com/75635093/122250627-31c4c380-cea0-11eb-837a-7a611f784866.png)
+
 
