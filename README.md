@@ -17,7 +17,9 @@ NU_NOTA_CN
 NU_NOTA_CH																		
 NU_NOTA_LC																		
 NU_NOTA_MT																		
-																		
+
+![image](https://user-images.githubusercontent.com/75635093/122249363-28872700-ce9f-11eb-8716-eb0e2b503ded.png)
+
 O MODELO QUE ESTOU DESENVOLVENDO IRÁ PREVER A NOTA DE CIÊNCIAS DA NATUREZA COM BASE NA NOTA DE MATEMÁTICA																		
 
 ![image](https://user-images.githubusercontent.com/75635093/122083450-45582780-cdd7-11eb-853e-39e663dc570d.png)
@@ -47,6 +49,8 @@ DEU ERRADO
 TENTANDO NOVAMENTE COM AS TRÊS NOTAS SÓ QUE COM A EXCLUSÃO DA COLUNA NU_NOTA_CN DO DATASET
 AO COLOCAR TODAS A NOTAS NA ENTRADA DE DADOS MANUAIS E SELECIONANDO TODAS AS COLUNAS FUNCIONOU
 
+![image](https://user-images.githubusercontent.com/75635093/122249485-45bbf580-ce9f-11eb-8a1a-d5e4ff5f9353.png)
+
 ### SITUAÇÃO ATUAL:
 
 ![image](https://user-images.githubusercontent.com/75635093/122148023-4ec1ae00-ce30-11eb-80f9-2ba8009eea17.png)
@@ -57,6 +61,8 @@ AO COLOCAR TODAS A NOTAS NA ENTRADA DE DADOS MANUAIS E SELECIONANDO TODAS AS COL
 MÉTODO UTILIZADO: CLUSTERIZAÇÃO		
 
 ABAIXO A IMAGEM DA CLUSTERIZAÇÃO FEITA EM 4 CENTRÓIDES E SEUS PARÂMETROS:
+
+![image](https://user-images.githubusercontent.com/75635093/122249619-5ff5d380-ce9f-11eb-97fc-79ea8eda9407.png)
 
 ![image](https://user-images.githubusercontent.com/75635093/122147378-29807000-ce2f-11eb-98d2-50d8fa251e4e.png)
 ![image](https://user-images.githubusercontent.com/75635093/122147478-5c2a6880-ce2f-11eb-93ba-4697820cf15a.png)![image](https://user-images.githubusercontent.com/75635093/122147499-6482a380-ce2f-11eb-80da-a9d8486535ac.png)
