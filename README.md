@@ -49,7 +49,7 @@ AO COLOCAR TODAS A NOTAS NA ENTRADA DE DADOS MANUAIS E SELECIONANDO TODAS AS COL
 
 ### SITUAÇÃO ATUAL:
 
-![image](https://user-images.githubusercontent.com/75635093/122086666-5191b400-cdda-11eb-8cdd-93c8bb418605.png)
+![image](https://user-images.githubusercontent.com/75635093/122148023-4ec1ae00-ce30-11eb-80f9-2ba8009eea17.png)
 
 
 ## DESAFIO 2											
