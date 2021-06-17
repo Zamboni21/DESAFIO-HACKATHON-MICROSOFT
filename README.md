@@ -84,3 +84,10 @@ MÉTODO UTILIZADO: CLUSTERIZAÇÃO
 ABAIXO A IMAGEM DA CLUSTERIZAÇÃO FEITA EM 3 CENTRÓIDES E SEUS PARÂMETROS:
 ![image](https://user-images.githubusercontent.com/75635093/122310619-17fa9f00-cee7-11eb-95c6-f0c6a8eae793.png)![image](https://user-images.githubusercontent.com/75635093/122310631-21840700-cee7-11eb-8aae-3e5af805c310.png)
 
+### SITUAÇÃO ATUAL:
+
+![image](https://user-images.githubusercontent.com/75635093/122319016-62cfe300-cef6-11eb-9d76-2b786524e663.png)![image](https://user-images.githubusercontent.com/75635093/122319042-6c594b00-cef6-11eb-9642-bc520bb2ab6d.png)
+
+![image](https://user-images.githubusercontent.com/75635093/122319381-f1dcfb00-cef6-11eb-8827-cae6d9532169.png)
+
+
