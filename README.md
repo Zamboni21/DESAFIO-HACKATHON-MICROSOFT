@@ -77,3 +77,10 @@ COMPARANDO COM OS RESULTADOS OBTIDOS, PODEMOS PERCEBER QUE A CLUSTERIZAÇÃO FOI
 
 ![image](https://user-images.githubusercontent.com/75635093/122251766-2faf3480-cea1-11eb-9e8c-5918bb279d4b.png)
 
+## DESAFIO 3											
+																		
+MÉTODO UTILIZADO: CLUSTERIZAÇÃO
+
+ABAIXO A IMAGEM DA CLUSTERIZAÇÃO FEITA EM 3 CENTRÓIDES E SEUS PARÂMETROS:
+![image](https://user-images.githubusercontent.com/75635093/122310619-17fa9f00-cee7-11eb-95c6-f0c6a8eae793.png)![image](https://user-images.githubusercontent.com/75635093/122310631-21840700-cee7-11eb-8aae-3e5af805c310.png)
+
