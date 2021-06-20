@@ -125,5 +125,7 @@ APÓS UTILIZAR O PIPELINE ABAIXO, OBTIVE OS RESULTADOS DAS NOTAS PREVISTAS PARA 
 
 ![image](https://user-images.githubusercontent.com/75635093/122677482-cee16e00-d1b8-11eb-9ab6-13eaec7011a6.png)
 
-![image](https://user-images.githubusercontent.com/75635093/122677461-bbce9e00-d1b8-11eb-96e0-3b78a20701fe.png)
+![image](https://user-images.githubusercontent.com/75635093/122677461-bbce9e00-d1b8-11eb-96e0-3b78a20701fe.png)![image](https://user-images.githubusercontent.com/75635093/122678777-8dec5800-d1be-11eb-8c21-52711d6015d3.png)
+
+COM ISSO PODEMOS ANALISAR QUE AS NOTAS DE 2020 E 2021 IRÃO CRESCER LEVEMENTE QUANDO COMPARADAS COM TODAS AS OUTRAS JUNTAS.
 
