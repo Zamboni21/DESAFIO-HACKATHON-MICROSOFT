@@ -121,4 +121,9 @@ UTILIZANDO OS DADOS SEPARADOS PARA INICIAR UM MODELO DE PREVISÃO DE REGRESSÃO 
 ![image](https://user-images.githubusercontent.com/75635093/122654874-a019b800-d124-11eb-912b-bdf933709a5f.png)
 ![image](https://user-images.githubusercontent.com/75635093/122654893-c0e20d80-d124-11eb-8415-4891a20ae57b.png)
 
+APÓS UTILIZAR O PIPELINE ABAIXO, OBTIVE OS RESULTADOS DAS NOTAS PREVISTAS PARA 2020 E 2021:
+
+![image](https://user-images.githubusercontent.com/75635093/122677482-cee16e00-d1b8-11eb-9ab6-13eaec7011a6.png)
+
+![image](https://user-images.githubusercontent.com/75635093/122677461-bbce9e00-d1b8-11eb-96e0-3b78a20701fe.png)
 
