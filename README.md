@@ -43,8 +43,7 @@ PRIMEIRA NOTA CN, QUARTA NOTA MT
 
 ![image](https://user-images.githubusercontent.com/75635093/122689965-a7ac9000-d1fc-11eb-8ded-3e3434c8ccca.png)
 
-![image](https://user-images.githubusercontent.com/75635093/122148023-4ec1ae00-ce30-11eb-80f9-2ba8009eea17.png)
-![image](https://user-images.githubusercontent.com/75635093/122652025-ef56ed00-d112-11eb-838c-822b1c9ce73c.png)
+![image](https://user-images.githubusercontent.com/75635093/122690126-0aeaf200-d1fe-11eb-9b4d-10c4ac671305.png)
 
 ## DESAFIO 2											
 																		
