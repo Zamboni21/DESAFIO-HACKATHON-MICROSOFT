@@ -10,14 +10,12 @@ MÉTODO UTILIZADO: REGRESSÃO
 																		
 FAZENDO O UPLOAD DO ARQUIVO DE MICRODADOS ENEM 2019 NO CONJUNTO DE DADOS DO AZURE ML																		
 UM ARQUIVO TABULAR SEPARADO POR PONTO E VÍRGULA																																	
-![image](https://user-images.githubusercontent.com/75635093/122689982-da568880-d1fc-11eb-81b9-ffbe2f16933a.png)
-
 
 ![image](https://user-images.githubusercontent.com/75635093/122249363-28872700-ce9f-11eb-8716-eb0e2b503ded.png)
 
 O MODELO QUE ESTOU DESENVOLVENDO IRÁ PREVER A NOTA DE CIÊNCIAS DA NATUREZA COM BASE NA NOTA DE MATEMÁTICA																		
 
-![image](https://user-images.githubusercontent.com/75635093/122083450-45582780-cdd7-11eb-853e-39e663dc570d.png)
+![image](https://user-images.githubusercontent.com/75635093/122689982-da568880-d1fc-11eb-81b9-ffbe2f16933a.png)
 																		
 MAE = 40,14																		
 RMSE = 50,44																		
